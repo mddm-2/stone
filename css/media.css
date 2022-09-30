@@ -1,0 +1,99 @@
+@media(max-width:1199px){
+    .text h5{
+        font-size: 34px;
+    }
+    .text h5{
+        font-size: 24px;
+    }
+    .text img{
+        margin-bottom: 103px;
+    }
+}
+
+@media(max-width:991px){
+    header .menu .header-nav-link{
+        display: flex;
+        border-right: 0;
+        border-left:  0;
+        border-bottom: 1px solid #4d4d4d;
+        justify-content: center;
+        text-align: center;
+    }
+    .team  .images .px{
+        width: 100%;
+    }
+    footer .ttt{
+        padding-left: 240px;
+    }
+    footer .tt{
+        padding-top: 11px;
+        padding-left: 234px;
+        padding-bottom: 52px;
+    }
+}
+
+@media(max-width:767px){
+    footer .ttt{
+        padding-left: 156px;
+    }
+    footer .tt{
+        padding-top: 11px;
+        padding-left: 160px;
+        padding-bottom: 52px;
+    }
+}
+
+@media(max-width:712px){
+    section .h1{
+        font-size: 60px
+    }
+    section h1{
+        font-size: 60px
+    }
+}
+
+@media(max-width:547px){
+    section .h1{
+        font-size: 39px
+    }
+    section h1{
+        font-size: 39px
+    }
+}
+
+@media(max-width:441px){
+    footer .ttt{
+        padding-left: 82px;
+    }
+    footer .tt{
+        padding-top: 11px;
+        padding-left: 85px;
+        padding-bottom: 52px;
+    }
+}
+
+@media(max-width:357px){
+    section .h1{
+        font-size: 29px
+    }
+    section h1{
+        font-size: 29px
+    }
+    section p{
+        font-size: 10px
+    }
+}
+
+@media(max-width:319px){
+    footer .ttt{
+        padding-left: 34px;
+    }
+    footer .tt{
+        padding-top: 11px;
+        padding-left: 30px;
+        padding-bottom: 52px;
+    }
+    footer button{
+        width: 194px;
+    }
+}
